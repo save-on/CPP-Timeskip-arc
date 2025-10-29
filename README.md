@@ -1,13 +1,13 @@
-# Journey to max stats
+# Journey to max tech stats
 
-## Will go through a timeskip arc
+## Will go through a timeskip arc will exit c++ dev
 
 This repo will be a tracker to prove where the work happened.
 
 ## C++ Reading Material 
 Current book - :hourglass:
 Finished book - :octocat:
-* C++ Primer :hourglass:
+* C++ Primer - :hourglass:
 * C++ 17 in detail
 * Design patterns by Erich Gamma
 * Beautiful C++
