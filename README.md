@@ -1,8 +1,8 @@
 # Journey to max tech stats
 
-## Will go through a timeskip arc will exit c++ dev
+## Will go through a timeskip arc will exit a c++ dev
 
-This repo will be a tracker to prove where the work happened.
+This repo will be a tracker to prove I'm him and this is where the work happened.
 
 ## C++ Reading Material 
 Current book - :hourglass:
