@@ -4,6 +4,10 @@
 
 This repo will be a tracker to prove I'm him and this is where the work happened.
 
+## Goal
+The goal is to enter the territory of systems level engineer, I would like to learn everything from low level concepts,
+systems architecture, design patterns, networking, and automation. On the side I've super interested in the idea of 
+designing and building horror games! :godmode:
 
 ## Resources
 * [cppreference](www.cppreference.com)
@@ -23,8 +27,3 @@ Current material - :hourglass: / Finished material - :octocat:
 * TCP/IP illustrated by Kevin Fall
 * C++ Concurrency in action
 * C++ Software design in action
-
-## Goal
-The goal is to enter the territory of systems level engineer, I would like to learn everything from low level concepts,
-systems architecture, design patterns, networking, and automation. On the side I've super interested in the idea of 
-designing and building horror games! :godmode:
