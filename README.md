@@ -4,10 +4,18 @@
 
 This repo will be a tracker to prove I'm him and this is where the work happened.
 
-## C++ Reading Material 
+
+## Resources
+* [cppreference][www.cppreference.com]
+* [cplusplus][www.cplusplus.com]
+* [isocpp][www.isocpp.org]
+
 Current book - :hourglass:
 Finished book - :octocat:
-* C++ Primer - :hourglass:
+## C++ Video Materal
+* [Mike Shah][https://www.youtube.com/watch?v=LGOgNqkRMs0&list=PLvv0ScY6vfd8j-tlhYVPYgiIyXduu6m-L] ?/231 video series - :hourglass:
+
+## C++ Reading Material 
 * C++ 17 in detail
 * Design patterns by Erich Gamma
 * Beautiful C++
