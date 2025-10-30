@@ -26,3 +26,8 @@ Current material - :hourglass: / Finished material - :octocat:
 * TCP/IP illustrated by Kevin Fall
 * C++ Concurrency in action
 * C++ Software design in action
+
+### Want to give advice?
+Reach out to me on these platforms!
+* Discord User: *save_on*
+* [LinkedIn](https://www.linkedin.com/in/sayvon-edmondson/)
