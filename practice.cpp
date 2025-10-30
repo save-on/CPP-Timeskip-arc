@@ -1,8 +1,8 @@
 #include <iostream>
 
 int main() {
-  const char* x = "adfafds";
-  std::cout << x << std::endl;
-  std::cout << sizeof(x) << std::endl;
+  int charges[15];
+
+  std::iota
   return 0;
 }

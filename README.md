@@ -17,6 +17,9 @@ Current material - :hourglass: / Finished material - :octocat:
 ## C++ Video Materal
 * [Mike Shah](https://www.youtube.com/watch?v=LGOgNqkRMs0&list=PLvv0ScY6vfd8j-tlhYVPYgiIyXduu6m-L) 10/231 video series - :hourglass:
 
+## Course Material
+* [learncpp](www.learncpp.com)
+
 ## C++ Reading Material 
 * C++ 17 in detail
 * Design patterns by Erich Gamma
