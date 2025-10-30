@@ -5,7 +5,7 @@ The purpose of this repo will be a track and prove to myself, that I am him. Thi
 
 ## Goal
 The goal is to enter the territory of systems level engineering, I would like to learn everything from low level concepts,
-systems architecture, design patterns, networking, and automation. On the side I've super interested in the idea of 
+systems architecture, design patterns, networking, and automation. On the side I've been super interested in the idea of 
 designing and building horror games! :godmode:
 
 ## Resources
