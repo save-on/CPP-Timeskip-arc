@@ -10,8 +10,7 @@ This repo will be a tracker to prove I'm him and this is where the work happened
 * [cplusplus](www.cplusplus.com)
 * [isocpp](www.isocpp.org)
 
-Current book - :hourglass:!
-Finished book - :octocat:!
+Current material - :hourglass:/ Finished material - :octocat:
 ## C++ Video Materal
 * [Mike Shah](https://www.youtube.com/watch?v=LGOgNqkRMs0&list=PLvv0ScY6vfd8j-tlhYVPYgiIyXduu6m-L) 10/231 video series - :hourglass:
 
