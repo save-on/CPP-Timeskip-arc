@@ -1,8 +1,11 @@
 #include <iostream>
+#include <array>
 
 int main() {
-  char x = "sdsa";
-  std::cout << x << std::endl;
-  std::cout << sizeof(x) << std::endl;
+  std::array<int, 4> list{};
+  std::fill(list.begin(), list.end(), 72);
+  for (auto ele: list) {
+    std::cout << ele << std::endl;
+  }
   return 0;
 }
