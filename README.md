@@ -34,3 +34,9 @@ Current material - :hourglass: / Finished material - :octocat:
 Reach out to me on these platforms!
 * Discord User: *save_on*
 * [LinkedIn](https://www.linkedin.com/in/sayvon-edmondson/)
+* email: sedmon033@gmail.com
+
+### Schedule
+Work F-S-S 6am-6pm CST
+Grind - M-Th 6am-10pm CST
+
