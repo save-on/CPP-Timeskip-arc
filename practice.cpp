@@ -1,11 +1,19 @@
 #include <iostream>
 #include <array>
 
+int add(int x);
+
 int main() {
-  std::array<int, 4> list{};
-  std::fill(list.begin(), list.end(), 72);
-  for (auto ele: list) {
-    std::cout << ele << std::endl;
-  }
+  int a{};
+  std::cin >> a;
+  std::cout << add(a) << std::endl;
   return 0;
+}
+
+int add(int element) {
+  if (!element) {
+    std::cout << "you need to input a number" << std::endl;
+  }
+  
+  return element + 10;
 }
