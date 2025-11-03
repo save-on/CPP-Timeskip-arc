@@ -1,4 +1,5 @@
-# Journey to max tech stats
+
+Journey to max tech stats
 *timeskip arc, where I exit a proficient systems engineer in c++*
 
 The purpose of this repo will be a track and prove to myself, that I am him. This is where the grind will happen.
@@ -15,7 +16,7 @@ designing and building horror games! :godmode:
 
 Current material - :hourglass: / Finished material - :octocat:
 ## C++ Video Materal
-* [Mike Shah](https://www.youtube.com/watch?v=LGOgNqkRMs0&list=PLvv0ScY6vfd8j-tlhYVPYgiIyXduu6m-L) 14/231 video series - :hourglass:
+* [Mike Shah](https://www.youtube.com/watch?v=LGOgNqkRMs0&list=PLvv0ScY6vfd8j-tlhYVPYgiIyXduu6m-L) 18/231 video series - :hourglass:
 
 ## Course Material
 * [learncpp](https://www.learncpp.com)/1.4 - :hourglass:
