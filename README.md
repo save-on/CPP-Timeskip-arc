@@ -16,10 +16,10 @@ designing and building horror games! :godmode:
 
 Current material - :hourglass: / Finished material - :octocat:
 ## C++ Video Materal
-* [Mike Shah](https://www.youtube.com/watch?v=LGOgNqkRMs0&list=PLvv0ScY6vfd8j-tlhYVPYgiIyXduu6m-L) 18/231 video series - :hourglass:
+* [Mike Shah](https://www.youtube.com/watch?v=LGOgNqkRMs0&list=PLvv0ScY6vfd8j-tlhYVPYgiIyXduu6m-L) 19/231 video series - :hourglass:
 
 ## Course Material
-* [learncpp](https://www.learncpp.com)/1.8 - :hourglass:
+* [learncpp](https://www.learncpp.com)/1.9 - :hourglass:
 
 ## C++ Reading Material 
 * C++ 17 in detail
