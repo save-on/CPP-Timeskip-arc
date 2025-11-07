@@ -16,10 +16,10 @@ designing and building horror games! :godmode:
 
 Current material - :hourglass: / Finished material - :octocat:
 ## C++ Video Materal
-* [Mike Shah](https://www.youtube.com/watch?v=LGOgNqkRMs0&list=PLvv0ScY6vfd8j-tlhYVPYgiIyXduu6m-L) 19/231 video series - :hourglass:
+* [Mike Shah](https://www.youtube.com/watch?v=LGOgNqkRMs0&list=PLvv0ScY6vfd8j-tlhYVPYgiIyXduu6m-L) 23/231 video series - :hourglass:
 
 ## Course Material
-* [learncpp](https://www.learncpp.com)/2.1 - :hourglass:
+* [learncpp](https://www.learncpp.com)/2.3 - :hourglass:
 
 ## C++ Reading Material 
 * C++ 17 in detail
@@ -29,7 +29,10 @@ Current material - :hourglass: / Finished material - :octocat:
 * Inside the machine
 * TCP/IP illustrated by Kevin Fall
 * C++ Concurrency in action
+* Real-Time Rendering
 * C++ Software design in action
+-------------------------------
+* Game Engine Architectur
 
 ### Want to give advice?
 Reach out to me on these platforms!
