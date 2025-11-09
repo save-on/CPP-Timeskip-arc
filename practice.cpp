@@ -1,13 +1,17 @@
 #include <iostream>
-#include <vector>
-#include <type_traits>
 
 int main() {
-    int* x = new int;
-    std::cout << "address of allocated memory: " << x << '\n';
-    std::cout << "size of allocated memory   : " << sizeof(x) << '\n';
-    delete x;
-    std::cout << "address of allocated memory: " << x << '\n';
-    std::cout << "size of allocated memory   : " << sizeof(x) << '\n';
+
+    int numberOfStudents{};
+    std::cout << "How many students in our class?" << '\n';
+    std::cin >> numberOfStudents;
+    
+    int* student_ids = new int[numberOfStudents];
+
+    for(int i = 0; i < numberOfStudents; i++) {
+        student_ids[i] = i;
+    }
+
+    delete[] student_ids; 
     return 0;
 }
