@@ -1,9 +1,9 @@
 
 Journey to max tech stats  
 =========================
-*~timeskip arc, where I exit a proficient systems engineer in c++~*
+*timeskip arc, where I exit a proficient systems engineer in c++*
 
-The purpose of this repo will be a track and prove to myself, that I am him. This is where the grind will happen.
+### The purpose of this repo will be a track and prove to myself, that I am him. This is where the grind will happen.
 
 ## Goal
 The goal is to enter the territory of systems level engineering, I would like to learn everything from low level concepts,
