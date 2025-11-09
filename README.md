@@ -1,5 +1,5 @@
 
-Journey to max tech stats
+Journey to max tech stats  
 *timeskip arc, where I exit a proficient systems engineer in c++*
 
 The purpose of this repo will be a track and prove to myself, that I am him. This is where the grind will happen.
@@ -41,6 +41,6 @@ Reach out to me on these platforms!
 * email: sedmon033@gmail.com
 
 ### Schedule
-Work F-S-S 6am-6pm CST
+Work F-S-S 6am-6pm CST  
 Grind - M-Th 6am-10pm CST
 
