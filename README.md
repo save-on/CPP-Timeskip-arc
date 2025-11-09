@@ -32,7 +32,7 @@ Current material - :hourglass: / Finished material - :octocat:
 * Real-Time Rendering
 * C++ Software design in action
 -------------------------------
-* Game Engine Architectur
+* Game Engine Architecture
 
 ### Want to give advice?
 Reach out to me on these platforms!
