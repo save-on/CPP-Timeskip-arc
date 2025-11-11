@@ -13,7 +13,10 @@ designing and building horror games! :godmode:
 ## Resources
 * [cppreference](https://www.cppreference.com)
 * [cplusplus](https://www.cplusplus.com)
-* [isocpp](https://www.isocpp.org)   
+* [isocpp](https://www.isocpp.org)  
+
+## Tools
+* [cppinsights](https://cppinsights.io/) - Shows how C++ treats your code under the hood
 
 Current material - :hourglass:  
 Finished material - :octocat:  
