@@ -24,7 +24,7 @@ Current material - :hourglass:
 Finished material - :octocat:  
 
 ## C++ Video Material
-* [Mike Shah](https://www.youtube.com/watch?v=LGOgNqkRMs0&list=PLvv0ScY6vfd8j-tlhYVPYgiIyXduu6m-L) 28/231 video series - :hourglass
+* [Mike Shah](https://www.youtube.com/watch?v=LGOgNqkRMs0&list=PLvv0ScY6vfd8j-tlhYVPYgiIyXduu6m-L) 28/231 video series - :hourglass:
 
 ## Course Material
 * [learncpp](https://www.learncpp.com/cpp-tutorial/introduction-to-local-scope/)/2.5 - :hourglass:
