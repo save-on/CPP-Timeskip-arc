@@ -50,6 +50,6 @@ Reach out to me on these platforms!
 * Email: sedmon033@gmail.com
 
 ### Schedule
-Work - F-S-S 6am-6pm CST  
-Grind - M-Th 6am-10pm CST
+Work | F-S-S 6am-6pm CST  
+Grind | M-Th 6am-10pm CST
 
