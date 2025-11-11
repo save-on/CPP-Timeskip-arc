@@ -14,6 +14,8 @@ designing and building horror games! :godmode:
 * [cppreference](https://www.cppreference.com)
 * [cplusplus](https://www.cplusplus.com)
 * [isocpp](https://www.isocpp.org)  
+* [learncpp](https://www.learncpp.com)
+* [Mike Shah](https://www.youtube.com/watch?v=LGOgNqkRMs0&list=PLvv0ScY6vfd8j-tlhYVPYgiIyXduu6m-L)
 
 ## Tools
 * [cppinsights](https://cppinsights.io/) - Shows how C++ treats your code under the hood
@@ -25,7 +27,7 @@ Finished material - :octocat:
 * [Mike Shah](https://www.youtube.com/watch?v=LGOgNqkRMs0&list=PLvv0ScY6vfd8j-tlhYVPYgiIyXduu6m-L) 28/231 video series - :hourglass
 
 ## Course Material
-* [learncpp](https://www.learncpp.com)/2.3 - :hourglass:
+* [learncpp](https://www.learncpp.com/cpp-tutorial/introduction-to-local-scope/)/2.5 - :hourglass:
 
 ## C++ Reading Material 
 * C++ 17 in detail

@@ -1,20 +1,22 @@
 #include <iostream>
-#include <vector>
-#include <array>
 
-void printArray(int arr[]);
-
-int main() {
-    int arr[] = {1,3,5,7,9};
-    printArray(arr);
-    return 0;
+int numDoubler(int&& num) {
+    return num * 2;
 }
 
-void printArray(int arr[]) {
-/*    for (int num : arr) {
-        std::cout << num << '\n';
-    }
-    */
+int numCollector() {
+    int num{};
+    std::cout << "Enter a number: ";
+    std::cin >> num;
 
-    std::cout << "size of arr: " << sizeof(arr) << '\n'; 
+    return num;
+}
+
+void numPrinter(int&& num) {
+    std::cout << num << '\n';
+}
+
+int main() {
+    numPrinter(numDoubler(numCollector()));
+    return 0;
 }
