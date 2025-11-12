@@ -11,11 +11,11 @@ systems architecture, design patterns, networking, and automation. On the side I
 designing and building horror games! :godmode:
 
 ## Resources
-* [cppreference](https://www.cppreference.com)
-* [cplusplus](https://www.cplusplus.com)
-* [isocpp](https://www.isocpp.org)  
-* [learncpp](https://www.learncpp.com)
-* [Mike Shah](https://www.youtube.com/watch?v=LGOgNqkRMs0&list=PLvv0ScY6vfd8j-tlhYVPYgiIyXduu6m-L)
+- [cppreference](https://www.cppreference.com)
+- [cplusplus](https://www.cplusplus.com)
+- [isocpp](https://www.isocpp.org)  
+- [learncpp](https://www.learncpp.com)
+- [Mike Shah](https://www.youtube.com/watch?v=LGOgNqkRMs0&list=PLvv0ScY6vfd8j-tlhYVPYgiIyXduu6m-L)
 
 ## Tools
 * [cppinsights](https://cppinsights.io/) - Shows how C++ treats your code under the hood
@@ -24,7 +24,7 @@ Current material - :hourglass:
 Finished material - :octocat:  
 
 ## C++ Video Material
-* [Mike Shah](https://www.youtube.com/watch?v=LGOgNqkRMs0&list=PLvv0ScY6vfd8j-tlhYVPYgiIyXduu6m-L) 28/231 video series - :hourglass:
+* [Mike Shah](https://www.youtube.com/watch?v=pMCHWTwIWns&list=PLvv0ScY6vfd8j-tlhYVPYgiIyXduu6m-L&index=31) 31/231 video series - :hourglass:
 
 ## Course Material
 * [learncpp](https://www.learncpp.com/cpp-tutorial/introduction-to-local-scope/)/2.5 - :hourglass:
@@ -39,9 +39,16 @@ Finished material - :octocat:
 * C++ Concurrency in action
 * Real-Time Rendering
 * C++ Software design in action  
--------------------------------
+
+-------------------------------  
+
 ## Possible Material
 * Game Engine Architecture
+
+## Projects Built so far
+- Hangman
+- Number Guessing Game
+- Calculator
 
 ### Want to give advice?
 Reach out to me on these platforms!
@@ -50,6 +57,6 @@ Reach out to me on these platforms!
 * Email: sedmon033@gmail.com
 
 ### Schedule
-Work - F-S-S 6am-6pm CST  
-Grind - M-Th 6am-10pm CST
+Work | F-S-S 6am-6pm CST  
+Grind | M-Th 6am-10pm CST
 
