@@ -28,7 +28,7 @@ Finished material - :octocat:
 * [Mike Shah](https://www.youtube.com/watch?v=pMCHWTwIWns&list=PLvv0ScY6vfd8j-tlhYVPYgiIyXduu6m-L&index=31) 31/231 video series - :hourglass:
 
 ## Course Material
-* [learncpp](https://www.learncpp.com/cpp-tutorial/introduction-to-the-preprocessor/)/2.10 - :hourglass:
+* [learncpp](https://www.learncpp.com/cpp-tutorial/header-guards/)/2.12 - :hourglass:
 
 ## C++ Reading Material 
 * C++ 17 in detail

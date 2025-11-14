@@ -3,6 +3,7 @@
 
 #include <iostream>
 #include <string>
+#include "Sales_item.h"
 
 class Sales_item {
     friend std::istream& operator>>(std::istream&, Sales_item&);

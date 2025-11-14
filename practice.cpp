@@ -1,22 +1,7 @@
 #include <iostream>
-
-namespace mOperation {
-    int multiple(int x, int y) {
-        std::cout << "I'm from mOperation" << '\n';
-        return x * y;
-    }
-}
-
-namespace nOperation {
-    int multiple(int x, int y) {
-        std::cout << "I'm from nOperation" << '\n';
-        return x * y;
-    }
-}
-
+#include "add.h"
 
 int main() {
-    mOperation::multiple(2, 3);
-    nOperation::multiple(9, 9);
+    std::cout << "Result: " << add(7, 5) << '\n';
     return 0;
 }
