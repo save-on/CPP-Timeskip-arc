@@ -20,6 +20,7 @@ designing and building horror games! :godmode:
 ## Tools
 * [cppinsights](https://cppinsights.io/) - Shows how C++ treats your code under the hood
 * [compilerexplorer](https://godbolt.org/) - Shows how you C++ code works in Assembly
+* [Pixeldoro](https://pixeldoro.io/) - Game for productivity (trust me bro)
 
 Current material - :hourglass:  
 Finished material - :octocat:  
