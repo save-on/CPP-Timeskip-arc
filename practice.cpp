@@ -1,7 +1,6 @@
-#include <iostream>
-#include "add.h"
+#include "io.h"
 
 int main() {
-    std::cout << "Result: " << add(7, 5) << '\n';
+    writeAnswer(readNumber());
     return 0;
 }
