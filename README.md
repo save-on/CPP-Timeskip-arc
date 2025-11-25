@@ -26,10 +26,10 @@ Current material - :hourglass:
 Finished material - :octocat:  
 
 ## C++ Video Material
-* [Mike Shah](https://www.youtube.com/watch?v=pMCHWTwIWns&list=PLvv0ScY6vfd8j-tlhYVPYgiIyXduu6m-L&index=31) 31/231 video series - :hourglass:
+* [Mike Shah](https://www.youtube.com/watch?v=DHu0tv2qTYo&list=PLvv0ScY6vfd8j-tlhYVPYgiIyXduu6m-L&index=33) 33/231 video series - :hourglass:
 
 ## Course Material
-* [learncpp](https://www.learncpp.com/cpp-tutorial/header-guards/)/2.12 - :hourglass:
+* [learncpp](https://www.learncpp.com/cpp-tutorial/unsigned-integers-and-why-to-avoid-them/)/4.5 - :hourglass:
 
 ## C++ Reading Material 
 * C++ 17 in detail
@@ -52,7 +52,7 @@ Finished material - :octocat:
 - Number Guessing Game
 - Calculator
 
-### Want to give advice?
+### Have advice?
 Reach out to me on these platforms!
 * Discord User: *save_on*
 * [LinkedIn](https://www.linkedin.com/in/sayvon-edmondson/)
