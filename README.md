@@ -29,7 +29,7 @@ Finished material - :octocat:
 * [Mike Shah](https://www.youtube.com/watch?v=DHu0tv2qTYo&list=PLvv0ScY6vfd8j-tlhYVPYgiIyXduu6m-L&index=33) 33/231 video series - :hourglass:
 
 ## Course Material
-* [learncpp](https://www.learncpp.com/cpp-tutorial/unsigned-integers-and-why-to-avoid-them/)/4.5 - :hourglass:
+* [learncpp](https://www.learncpp.com/cpp-tutorial/introduction-to-type-conversion-and-static_cast/)/4.12 - :hourglass:
 
 ## C++ Reading Material 
 * C++ 17 in detail
