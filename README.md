@@ -29,7 +29,7 @@ Finished material - :octocat:
 * [Mike Shah](https://www.youtube.com/watch?v=DHu0tv2qTYo&list=PLvv0ScY6vfd8j-tlhYVPYgiIyXduu6m-L&index=33) 33/231 video series - :hourglass:
 
 ## Course Material
-* [learncpp](https://www.learncpp.com/cpp-tutorial/constant-variables-named-constants/)/5.9 - :hourglass:
+* [learncpp](https://www.learncpp.com/cpp-tutorial/stdstring_view-part-2/)/5.9 - :hourglass:
 
 ## C++ Reading Material 
 * C++ 17 in detail
