@@ -21,6 +21,7 @@ designing and building horror games! :godmode:
 * [cppinsights](https://cppinsights.io/) - Shows how C++ treats your code under the hood
 * [compilerexplorer](https://godbolt.org/) - Shows how you C++ code works in Assembly
 * [Pixeldoro](https://pixeldoro.io/) - Game for productivity (trust me bro)
+* [cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices) - Guide for showing best practices
 
 Current material - :hourglass:  
 Finished material - :octocat:  
@@ -29,7 +30,7 @@ Finished material - :octocat:
 * [Mike Shah](https://www.youtube.com/watch?v=DHu0tv2qTYo&list=PLvv0ScY6vfd8j-tlhYVPYgiIyXduu6m-L&index=33) 33/231 video series - :hourglass:
 
 ## Course Material
-* [learncpp](https://www.learncpp.com/cpp-tutorial/constant-variables-named-constants/)/5.1 - :hourglass:
+* [learncpp](https://www.learncpp.com/cpp-tutorial/constant-variables-named-constants/)/5.9 - :hourglass:
 
 ## C++ Reading Material 
 * C++ 17 in detail
