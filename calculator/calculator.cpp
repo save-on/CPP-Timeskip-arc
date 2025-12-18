@@ -1,8 +1,8 @@
 #include <iostream>
 #include <vector>
 
-// creating a calculator that is capable of doing the four basic operations with two numebers
-
+// creating a calculator that is capable of doing the four basic operations with
+// two numebers
 
 void add(std::vector<int> vec) {
     int total{vec[0]};
@@ -59,7 +59,7 @@ std::vector<int> getUserNumberInput(int amount) {
 int main() {
     void (*op)(std::vector<int>);
 
-    int amount = 5;
+    int amount = 2;
 
     std::vector<int> userNumbers{getUserNumberInput(amount)};
     int userOperations{getUserOperationInput()};
