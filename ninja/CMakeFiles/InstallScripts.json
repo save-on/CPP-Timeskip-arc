@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/saveon/bugGenerator/cpp/CPP-Timeskip-arc/ninja/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

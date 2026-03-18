@@ -1,0 +1,13 @@
+# ninja log v7
+1	196	1773347058093941447	CMakeFiles/cpp_practice.dir/src/main.cpp.o	4b4576c75f4a6320
+196	229	1773347058289376659	cpp_practice	801ba8168ad56ecf
+5	39	1773709242209834363	build.ninja	bbca4f88f81d1c70
+5	39	1773709242209834363	/home/saveon/bugGenerator/cpp/CPP-Timeskip-arc/ninja/cmake_install.cmake	bbca4f88f81d1c70
+1	9	1772417752186954558	CMakeFiles/cpp_practice.dir/src/quickMath.cpp.o	bc5374df97497965
+3	25	1773708535344082670	CMakeFiles/cpp_practice.dir/src/Math.cpp.o	ee5bf8907c4a2dbb
+1	23	1773709242209834363	build.ninja	bbca4f88f81d1c70
+1	23	1773709242209834363	/home/saveon/bugGenerator/cpp/CPP-Timeskip-arc/ninja/cmake_install.cmake	bbca4f88f81d1c70
+2	10	1773709588123981988	CMakeFiles/cpp_practice.dir/src/Math.cpp.o	ee5bf8907c4a2dbb
+2	10	1773710149863573213	CMakeFiles/cpp_practice.dir/src/Math.cpp.o	ee5bf8907c4a2dbb
+1	214	1773710149862573209	CMakeFiles/cpp_practice.dir/src/main.cpp.o	4b4576c75f4a6320
+214	250	1773710150076326826	cpp_practice	c6a66bd48782da7a
