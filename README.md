@@ -32,11 +32,12 @@ Finished material - :octocat:
 * [learncpp](https://www.learncpp.com/cpp-tutorial/bit-manipulation-with-bitwise-operators-and-bit-masks/)/0.3 - :hourglass:
 
 ## C++ Reading Material 
+* C++ Primer, Fifth Edition :hourglass:
 * C++ 17 in detail
 * Design patterns by Erich Gamma
 * Beautiful C++
 * Operating Systems three easy pieces
-* Inside the machine
+* Inside the machine :hourglass:
 * TCP/IP illustrated by Kevin Fall
 * C++ Concurrency in action
 * Real-Time Rendering
@@ -47,10 +48,12 @@ Finished material - :octocat:
 ## Possible Material
 * Game Engine Architecture
 
-## Projects Built so far
+## Projects/labs Built so far
 - Hangman
 - Number Guessing Game
 - Calculator
+- decimalToBinaryConverter (using bit manipulation)
+
 
 ### Have advice?
 Reach out to me on these platforms!
